@@ -6,5 +6,8 @@ public class Lab010_Variables {
         a= 65+1;
         System.out.println(a);
         // o/p is 66 it will tke the latest one
+        // int is data type
+        // a is the variable name
+        // 10 is variable value
     }
 }
