@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab004_Literals_Character {
+public class Lab0018_Literals_Character {
     public static void main(String[] args) {
        char c='A'; // character a-z, A-Z, special symbols !@#$%#^&*()_+
        // char c1="A";  is this character no this is string comes undr double qutation

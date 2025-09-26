@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab005_Literals_Binary {
+public class Lab0019_Literals_Binary {
     public static void main(String[] args) {
         //Binary literals
         int binary_num=0b100; //decimal system -10

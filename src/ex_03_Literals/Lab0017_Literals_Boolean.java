@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab003_Literals_Boolean {
+public class Lab0017_Literals_Boolean {
     public static void main(String[] args) {
         boolean yes=true;
         boolean No = false;

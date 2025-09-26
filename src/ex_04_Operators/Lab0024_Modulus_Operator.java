@@ -1,6 +1,6 @@
-package ex_03_Operators;
+package ex_04_Operators;
 
-public class Lab004_Modulus_Operator {
+public class Lab0024_Modulus_Operator {
     public static void main(String[] args) {
        //int a=20;
        //int b=10;

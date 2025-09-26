@@ -1,6 +1,6 @@
-package ex_03_Operators;
+package ex_04_Operators;
 
-public class Lab002_Arithmetic_Operator {
+public class Lab0022_Arithmetic_Operator {
     public static void main(String[] args) {
         int a=20;
         int b=10;

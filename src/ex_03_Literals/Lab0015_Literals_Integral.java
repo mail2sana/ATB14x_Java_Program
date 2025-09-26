@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab001_Literals_Integral {
+public class Lab0015_Literals_Integral {
     public static void main(String[] args) {
         /*
          Boolean literals

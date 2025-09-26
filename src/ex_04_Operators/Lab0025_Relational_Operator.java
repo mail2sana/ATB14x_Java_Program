@@ -1,6 +1,6 @@
-package ex_03_Operators;
+package ex_04_Operators;
 
-public class Lab005_Relational_Operator {
+public class Lab0025_Relational_Operator {
     public static void main(String[] args) {
         /*Relational opera :
         * >

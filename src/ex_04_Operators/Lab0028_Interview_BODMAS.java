@@ -1,0 +1,15 @@
+package ex_04_Operators;
+
+public class Lab0028_Interview_BODMAS {
+    public static void main(String[] args) {
+        System.out.println((9*3/9+1)*3);
+        //BODMAS
+        /* first internal brackets
+        * 9x3-> 27
+        * 27/9-> 3
+        * 3+1->4
+        * 4x3->12
+        * */
+
+    }
+}
