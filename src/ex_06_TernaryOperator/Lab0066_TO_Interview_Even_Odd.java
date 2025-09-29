@@ -1,10 +1,10 @@
 package ex_06_TernaryOperator;
 
-public class Lab_TO_Interview_EVen {
+public class Lab0066_TO_Interview_Even_Odd {
     public static void main(String[] args) {
 
-        int a=4;
-        String num= a%2==0 ? "even" : "Odd";
+        int n=13;
+        String num= n%2==0 ? "even" : "Odd";
         System.out.println(num);
     }
 }

@@ -1,6 +1,6 @@
 package ex_06_TernaryOperator;
 
-public class Lab_Interview_AgeMAx {
+public class Lab0068_Interview_AgeMAx {
     public static void main(String[] args) {
 
     int age = 66;
