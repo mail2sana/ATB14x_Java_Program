@@ -6,7 +6,7 @@ public class Lab008_Common_Math {
         System.out.println(2*2);
         System.out.println(2/2);
         System.out.println(2-2);
-        System.out.println(3/2); //no decimal in ln
+        System.out.println(3/2); //no decimal in println
         //System.out.println(10/0); - maths exception
     }
 }
