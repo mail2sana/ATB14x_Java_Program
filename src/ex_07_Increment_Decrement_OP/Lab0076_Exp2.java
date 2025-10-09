@@ -1,6 +1,6 @@
 package ex_07_Increment_Decrement_OP;
 
-public class ab0076_Exp2 {
+public class Lab0076_Exp2 {
     public static void main(String[] args) {
         int a=10;
         System.out.println(++a + ++a);

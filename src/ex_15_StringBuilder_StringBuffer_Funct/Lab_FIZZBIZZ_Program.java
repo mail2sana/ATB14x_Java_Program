@@ -8,15 +8,23 @@ public class Lab_FIZZBIZZ_Program {
      */
     public static void main(String[] args) {
         for (int i = 1; i <=100 ; i++) {
-            System.out.println(i);
-          if(i%3==0){
+          System.out.println(i);
+
+            if (i % 3 == 0 && i % 5 == 0) {
+                System.out.println("FizzBuzz");
+            }
+
+               if(i%3==0){
                 System.out.println("Fizz");
                 continue;
-            } else if (i%5==0) {
+            }
+          else if (i%5==0) {
                 System.out.println("Buzz");
                 continue;
-            } else {
-                System.out.println("FizzBuzz");
+            }
+          else {
+                System.out.println("i");
+              //  System.out.println("i");
             }
         }
     }

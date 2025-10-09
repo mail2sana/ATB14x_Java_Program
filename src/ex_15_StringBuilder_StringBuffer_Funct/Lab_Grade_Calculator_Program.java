@@ -15,24 +15,25 @@ F: 0-59
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your score pls");
         int score = scanner.nextInt();
+
         if (score>=90 && score<100) {
-            System.out.println("Congratulation youe are into Grade A");
+            System.out.println("Congratulation your Grade is A");
         }
         else if (score>=80 && score<89) {
-            System.out.println("Good Grade B");
+            System.out.println("Good your Grade is B");
 
         }
 
         else if (score>=70 && score<79) {
-            System.out.println("Improve Grade C");
+            System.out.println("Improve your Grade is C");
 
         }
         else if (score>= 60 && score<69) {
-            System.out.println("Normal Grade D");
+            System.out.println("Normal your Grade is D");
 
         }
         else {
-            System.out.println("Need to Improve Grade F");
+            System.out.println("Need to Improve your Grade is F");
         }
     }
 }
