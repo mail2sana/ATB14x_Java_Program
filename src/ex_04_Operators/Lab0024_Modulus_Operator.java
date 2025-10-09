@@ -7,11 +7,11 @@ public class Lab0024_Modulus_Operator {
         int a=13;
         int b=7;
         System.out.println(a%b); // modulus is reminder value show in output
-        /* 10/20/2 - quotient
-        *    /20/
-        * -----------
-        *    0 -reminder
-        * ---------
+        /* 10/20/2 - quotient     , 7/13/1
+        *    /20/                      7
+        * -----------           ------------
+        *    0 -reminder              6-reminder
+        * ---------            ------------------
         * */
     }
 }

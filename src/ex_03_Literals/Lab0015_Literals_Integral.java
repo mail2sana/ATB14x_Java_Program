@@ -11,8 +11,8 @@ public class Lab0015_Literals_Integral {
         null, scientific literals
         */
         int a=65; // Integral literals
-       final int r=89;
-      // int r=88; final literal can't change the value
+       final int r=89; //final literal can't change the value
+      // int r=88;
 
         System.out.println();
     }

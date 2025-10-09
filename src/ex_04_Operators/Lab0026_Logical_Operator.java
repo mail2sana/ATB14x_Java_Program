@@ -13,10 +13,10 @@ public class Lab0026_Logical_Operator {
         boolean b=true;
         System.out.println(!!b);
 
-        boolean c=true||false;
+        boolean c=true||false;   // or gate one true also true
         System.out.println(c);
 
-        boolean c1=false && true; // gate system
+        boolean c1=false && true; // and gate one false also false
         System.out.println(c1);
     }
 }
