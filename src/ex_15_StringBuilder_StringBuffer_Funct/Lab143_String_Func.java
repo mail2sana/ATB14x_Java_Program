@@ -49,7 +49,7 @@ public class Lab143_String_Func {
 
         // 13.trim
         String name1="    Harish    ";
-        System.out.println(name.trim());
+        System.out.println(name1.trim());
 
         //14. compare to
         System.out.println(name.compareTo("Sonal"));

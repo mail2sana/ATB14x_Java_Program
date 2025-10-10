@@ -2,7 +2,7 @@ package ex_15_StringBuilder_StringBuffer_Funct;
 
 import java.util.Scanner;
 
-public class Lab149_program {
+public class Lab149_Reverse_program {
     public static void main(String[] args) {
         // write a program to reverse a string using inbuilt function
         Scanner scanner=new Scanner(System.in);
