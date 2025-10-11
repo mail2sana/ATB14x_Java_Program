@@ -8,6 +8,7 @@ public class Lab0082_If_Else_Scannar {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your age");
         int age= scanner.nextInt();
+
         System.out.println("age");
     }
 }
