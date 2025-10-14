@@ -11,16 +11,17 @@ public class Lab153_Array_MaxMin_Program {
         Arrays.sort(array);
         System.out.println(array[array.length-1]);
         */
+
     // without in build function Max
-    /*    int max=array[0];
+       int max=array[0];
 
         for (int i = 0; i < array.length ; i++) {
             if (array[i] > max){
                 max=array[i];
             }
         }
-        System.out.println(max);
-        */
+        System.out.println("Maximum of arrays is" + max);
+
         int min=array[0];
 
         for (int i = 0; i < array.length ; i++) {
@@ -28,7 +29,7 @@ public class Lab153_Array_MaxMin_Program {
                 min=array[i];
             }
         }
-        System.out.println(min);
+        System.out.println("Minimum of arrays is "+ min);
 
 
     }

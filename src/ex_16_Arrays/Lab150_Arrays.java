@@ -12,6 +12,7 @@ public class Lab150_Arrays {
         int mark2[]=new int[5]; // fixed size bothe are same array declaration any patter you can use
 
         // String array
+     //   String[] names={"pramod","Amit","yash"};
         String[] names=new String[3];
         names[0]="pramod";
         names[1]="Amit";

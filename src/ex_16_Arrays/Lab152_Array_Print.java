@@ -4,6 +4,7 @@ public class Lab152_Array_Print {
     public static void main(String[] args) {
         int[] marks={51,100,91,87,90};
         System.out.println(marks.length);
+        System.out.println("--------------");
 
         System.out.println(marks[0]);
         System.out.println(marks[1]);
