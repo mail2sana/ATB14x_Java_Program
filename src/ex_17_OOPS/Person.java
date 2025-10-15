@@ -1,6 +1,6 @@
 package ex_17_OOPS;
 
-public class Class_Person {
+public class Person {
 
         // A
         String name;
