@@ -4,7 +4,7 @@ public class Lab0070_PRE_INCR_OP {
     public static void main(String[] args) {
         int a=10;
       //  System.out.println(++a);
-        int b= ++a;
+        int b= ++a; // b=++11 , b=12
        // ++a --> a=a+1
        // ERT Table
         // LineNo | a | Result b

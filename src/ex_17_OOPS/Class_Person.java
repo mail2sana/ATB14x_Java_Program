@@ -1,0 +1,23 @@
+package ex_17_OOPS;
+
+public class Class_Person {
+
+        // A
+        String name;
+        int age;
+        String Gender;
+        int Salary;
+        long phone_no;
+        String Address;
+        String coursename;
+        String paymentid;
+
+        // B
+        void eat(){};
+        void spea() {};
+        void sleep(){};
+        void doassignment(){};
+        void watchrecordings(){};
+
+    }
+
