@@ -5,7 +5,7 @@ public class Lab0096_Interview {
         char code ='C';
         switch(code){
             default:
-                System.out.println("Helloe");
+                System.out.println("Helloe");  // np break so executed case A also
             case 'A' :
                 System.out.println("65");
                 break;

@@ -2,7 +2,7 @@ package Ex_Java_Basic_If_Else;
 
 import java.util.Scanner;
 
-public class Lab_14_Triangle_Valid {
+public class Lab14_Triangle_Valid {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the side of the triangle");
