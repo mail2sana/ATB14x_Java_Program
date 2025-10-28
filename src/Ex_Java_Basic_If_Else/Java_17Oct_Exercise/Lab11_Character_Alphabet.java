@@ -1,4 +1,4 @@
-package Ex_Java_Basic_If_Else;
+package Ex_Java_Basic_If_Else.Java_17Oct_Exercise;
 
 public class Lab11_Character_Alphabet {
     public static void main(String[] args) {

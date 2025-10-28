@@ -1,4 +1,4 @@
-package Ex_Java_Basic_If_Else;
+package Ex_Java_Basic_If_Else.Java_5Oct_Exercise;
 
 public class Lab02_Number_Even_Odd {
     public static void main(String[] args) {

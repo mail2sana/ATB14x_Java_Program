@@ -1,6 +1,5 @@
-package Ex_Java_Basic_If_Else;
+package Ex_Java_Basic_If_Else.Java_23Oct_Exercise;
 
-import javax.print.attribute.HashPrintRequestAttributeSet;
 import java.util.Scanner;
 
 public class Lab20_Employee_Net_Salary {

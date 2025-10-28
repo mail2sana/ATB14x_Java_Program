@@ -1,4 +1,4 @@
-package Ex_Java_Basic_If_Else;
+package Ex_Java_Basic_If_Else.Java_17Oct_Exercise;
 
 import java.util.Scanner;
 

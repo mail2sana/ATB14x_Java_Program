@@ -1,8 +1,8 @@
-package Ex_Java_Basic_If_Else;
+package Ex_Java_Basic_If_Else.Java_23Oct_Exercise;
 
 import java.util.Scanner;
 
-public class LAb21_Travel_VisaStatus_Age {
+public class Lab21_Travel_VisaStatus_Age {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Age");
