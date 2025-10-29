@@ -2,7 +2,7 @@ package ex_10_For_Loop;
 
 public class Lab107_ForLoop_2 {
     public static void main(String[] args) {
-       // instead fo int can we use float , long yes we can use but not going to use
+       // instead of int can we use float , long yes we can use but not going to use
         for (long i = 1l; i < 10; i++) {
             System.out.println(i);
         }

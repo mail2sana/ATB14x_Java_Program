@@ -11,7 +11,7 @@ public class Lab122_WhielLoop_GussingGame {
         // this random is class which guess the integer function
         Random random=new Random();
         int numberToGuess= random.nextInt(100);
-      // System.out.println(numberToGuess);
+     // System.out.println(numberToGuess);
 
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter the number");

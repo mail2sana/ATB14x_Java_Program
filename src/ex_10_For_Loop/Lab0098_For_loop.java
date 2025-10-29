@@ -6,7 +6,7 @@ public class Lab0098_For_loop {
         // for(I;C;U){
         // this is the code that you want to execute multiple times
         // pre increament i++ or post increament ++i doesn't value no problem
-        for(int i=0;i<10;i++){
+        for(int i=0;i<10;i++){  // 0->10 times  1->9 times
             System.out.println(i);
     }
     }
