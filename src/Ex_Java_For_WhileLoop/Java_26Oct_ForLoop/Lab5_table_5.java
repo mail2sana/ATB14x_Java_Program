@@ -1,4 +1,4 @@
-package Ex_Java_For_WhileLoop.Java_26Oct_Exerc;
+package Ex_Java_For_WhileLoop.Java_26Oct_ForLoop;
 
 public class Lab5_table_5 {
     public static void main(String[] args) {

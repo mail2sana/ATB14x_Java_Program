@@ -5,7 +5,7 @@ public class Lab119_WhileLoop_IQ {
         int i1=10;
         while(i1>=1){
             System.out.println(i1);
-            i1--;
+            i1--;  // reverse print
         }
     }
 }

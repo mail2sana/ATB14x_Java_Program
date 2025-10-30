@@ -1,4 +1,4 @@
-package Ex_Java_For_WhileLoop.Java_26Oct_Exerc;
+package Ex_Java_For_WhileLoop.Java_26Oct_ForLoop;
 
 public class Lab4_sum_first10_naturalno {
     public static void main(String[] args) {
