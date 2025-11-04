@@ -7,7 +7,7 @@ public class Lab149_Arrays {
 
         boolean[] married_people={true, false};
 
-        System.out.println(marks.length);
+        System.out.println(marks.length); // op -> 7
         System.out.println(marks[0]); // 88
         System.out.println(marks[4]); //93
       //  System.out.println(marks[-1]); // not possible negative not allowed in array
