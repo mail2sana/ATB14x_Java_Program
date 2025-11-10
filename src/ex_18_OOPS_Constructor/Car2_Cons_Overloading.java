@@ -15,8 +15,13 @@ public class Car2_Cons_Overloading {
         this.year = year_created;
     }
     Car2_Cons_Overloading(String model_name){
-       // this.model=model_name;
+       this.model=model_name;
       //  this();
+
+        // the above Car2 all are constructor overloading
+        // 1st - default constructor
+        // 2nd - 2 parameterized constructor
+        // 3rd - 1 parameterized constructor
 
 
     }

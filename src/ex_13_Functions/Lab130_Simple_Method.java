@@ -20,15 +20,18 @@ public class Lab130_Simple_Method {
         return "pramod"; // this is actual return type
     }
     static boolean return_boolean(){
+
         return true;
     }
     static float return_float(){
         return 589.54f;
     }
     static byte return_byte(){
+
         return 100;
     }
     static long return_long(){
+
         return 78965222l;
     }
 }

@@ -15,7 +15,7 @@ public class ATB14x {
 
     // B
     void eat(){}
-    void spea() {}
+    void speak() {}
     void sleep(){};
     void doassignment(){};
     void watchrecordings(){};
